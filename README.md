@@ -1,1 +1,2 @@
-# google-android-birthday-card-app
+# Basic Android Kotlin Training by Google
+birthday-card app
